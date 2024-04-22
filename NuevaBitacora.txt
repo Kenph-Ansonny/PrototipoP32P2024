@@ -1,0 +1,47 @@
+commit 56912e63ce2a579fcd484acdceea5b39fe991c30
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 11:24:13 2024 -0600
+
+    Envio de archivo funcional
+
+commit b5f0cb2d4a73526e3f440f29e9f152b211fe4a9c
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 11:00:56 2024 -0600
+
+    Mantenimiento Pacientes y su CRUD
+
+commit 0206258fd44f29b197dd8dea339b0650dc52ea60
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 10:14:44 2024 -0600
+
+    Creacion del MDIgeneral y del contenedor donde se hará el mantenimiento
+
+commit babaccdf18c4557493989f7386c094ee910de883
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 10:01:47 2024 -0600
+
+    Creacion de la rama seguridad, se hizo el login y la clase Usuaior en modelo y controlador, con UsuarioDAO
+
+commit c8f25cb56c7381395eece65d32e721d3536b7af2
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 09:49:46 2024 -0600
+
+    creacion de la clase conexion, modelo
+
+commit cba1e76b2fe3b54ad92e1109245a5eee68e6a115
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 09:41:48 2024 -0600
+
+    Se creo otro proyecto (hubo error, se soluciono), Creacion proyecto P3, parcial 2
+
+commit ef166d28fd1f369ddf71ad45c13f2c63499aadce
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Mon Apr 22 09:25:02 2024 -0600
+
+    Creacion del proyecto de Programacion 3 - 2do examen parcial
+
+commit 647ef13562d79ba08f23a7c813e11021c600beb7
+Author: Kenph-Ansonny <123000188+Kenph-Ansonny@users.noreply.github.com>
+Date:   Mon Apr 22 09:18:48 2024 -0600
+
+    Initial commit
