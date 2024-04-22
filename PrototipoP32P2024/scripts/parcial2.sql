@@ -1,4 +1,4 @@
-DROP DATABASE parcial;
+#DROP DATABASE parcial;
 CREATE DATABASE parcial;
 USE parcial;
 CREATE TABLE IF NOT EXISTS usuario (
